@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "test-node",
   "version": "1.0.0",
   "description": "Simple node and express backend",
   "main": "index.js",
